@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cp sample.env ../.env
+cp env.sample ../.env
